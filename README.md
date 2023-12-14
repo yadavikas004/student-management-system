@@ -1,2 +1,2 @@
 # student-management-system
-Student Management System
+Console Based Java Project Student Management System
